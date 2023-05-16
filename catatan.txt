@@ -1,0 +1,27 @@
+list = bisa di append
+tuple = tidak bisa di append.
+
+Isi list bisa diubah namalist [index] = xxx
+Isi tuple tidak bisa diubah.
+
+List lebih powerful dibanding tuple.
+
+Data dari tuple bisa diambil sama seperti list, asal jangan diubah isi tuplenya.
+
+
+tuple lebih cepat dibanding list.
+
+tuple bisa diconvert ke list dan vice versa.
+tupel to list = list(nama tuple)
+list to tupel = tuple(nama list)
+
+isi tuple harus sepasang, tidak bisa sendiri, kalo mau masukin satu data gunanakan variabel kosong, gunakan koma(100,)
+
+>>> x,y = y,x		(tukar nilai tuple)
+10
+>>> y
+20
+>>>
+
+Insert masukin dari depan
+append masukin dari belakang
